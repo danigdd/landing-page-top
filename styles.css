@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 400vh;
+}
+.first-section {
+    background-image: url(images/background-img.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.second.section {
+    background-image: url(images/background-img-second-div.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+.third-section {
+    background-image: url(images/background-img-third-div.jpg);
+    background-size: cover;
+
+    height: 50vh;  
+}
+
+.fourth-section {
+    background-image: url(images/background-img-fourth-div.jpg);
+    background-size: cover;
+    height: 50vh;     
+}
