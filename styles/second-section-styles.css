@@ -1,0 +1,16 @@
+.second-section {
+    background-image: url(../images/background-imgs/background-img-second-div.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200vh;
+}
+
+.second-section .h1-title {
+    color: #FFFFFF;
+    font-weight: bolder;
+    text-shadow: 8px 8px 3px rgba(0,0,0,0.3);
+    font-size: 50px;
+    text-align: center;
+    max-width: 80%;
+    text-align: center;
+}
