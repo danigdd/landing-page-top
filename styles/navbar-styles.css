@@ -1,0 +1,41 @@
+.navbar {
+    position: fixed;
+    top:0;
+    height: 80px;
+    width: 100%;
+    background-color: rgba(88, 11, 88, 0.9);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .logo {
+    width: 80px;
+    height: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar .logo .logo-img {
+    width: 80px;
+    height: 80px;
+}
+
+.navbar-options {
+    height: 100%;
+    display: flex;
+}
+.navbar .navbar-options a {
+    color:#FFFFFF;
+    font-size:20px;
+    padding-right:40px;
+    padding-left:40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.navbar .navbar-options a:hover {
+    background-color: rgba(0,0,0,0.2);
+    cursor: pointer;
+}
