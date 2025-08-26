@@ -30,12 +30,27 @@ a {
     font-weight: bolder;
     text-shadow: 8px 8px 3px rgba(0,0,0,0.3);
     font-size: 24px;
-    text-align: start;
+    text-align: justify;
+    line-height: 30px;
 }
 
 .section-h3 {
     color: #FFFFFF;
     text-shadow: 8px 8px 3px rgba(0,0,0,0.3);
     font-size: 18px;
-    text-align: start;
+    text-align: justify;
+}
+
+.section-div {
+    display:flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.section-subdiv {
+    display:flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 10px 10px 10px 10px;
+
 }

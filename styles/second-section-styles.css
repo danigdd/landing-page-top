@@ -6,7 +6,19 @@
     display: flex;
     flex-direction: column;
     justify-content: start;
-    padding-top:30px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-top:80px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.second-section .section-div {
+    height: 75vh;
+}
+
+.second-section #section-subdiv-fullstack-paragraph{
+    flex:0.75;
+}
+
+.second-section #section-subdiv-img-paragraph {
+    flex: 1.5;
 }
