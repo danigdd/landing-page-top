@@ -1,5 +1,14 @@
 .fourth-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/background-imgs/navbar.jpg);
     background-size: cover;
-    height: 20vh;     
+    height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: end;
+    padding-bottom: 10px;
+}
+
+.fourth-section p {
+    color: #FFFFFF;
 }
