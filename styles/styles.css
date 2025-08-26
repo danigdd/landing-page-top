@@ -1,12 +1,3 @@
-
-
-.third-section {
-    background-image: url(../images/background-imgs/background-img-third-div.jpg);
-    background-size: cover;
-
-    height: 50vh;  
-}
-
 .fourth-section {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/background-imgs/navbar.jpg);
     background-size: cover;
