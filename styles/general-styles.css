@@ -34,6 +34,10 @@ a {
     line-height: 30px;
 }
 
+.section-h2 p {
+    margin-bottom: 40px;
+}
+
 .section-h3 {
     color: #FFFFFF;
     text-shadow: 8px 8px 3px rgba(0,0,0,0.3);
