@@ -3,7 +3,8 @@
     top:0;
     height: 80px;
     width: 100%;
-    background-color: rgba(88, 11, 88, 0.9);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/background-imgs/navbar.jpg);
+    background-size: cover;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
