@@ -2,7 +2,7 @@
     background-image: url(../images/background-imgs/background-img-second-div.jpg);
     background-size: cover;
     background-attachment: fixed;
-    height: 200vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -26,7 +26,9 @@
 }
 
 .second-section-subdiv-img-wrap {
-    width: 500px;
-    height: 500px;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
     border-radius: 20px;
+    object-fit: cover;
 }
