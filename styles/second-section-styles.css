@@ -21,3 +21,14 @@
     flex:1;
     height: 30%;
 }
+
+.second-section-first-subsectionONE {
+    background-color: green;
+    height: 100vh;
+    flex: 1;
+}
+.second-section-first-subsectionTWO {
+    background-color: yellow;
+    height: 100vh;
+    flex: 1;
+}
