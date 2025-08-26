@@ -4,8 +4,9 @@
     background-attachment: fixed;
     height: 200vh;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: start;
     padding-top:30px;
     padding-left: 30px;
+    padding-right: 30px;
 }
